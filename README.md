@@ -2,11 +2,6 @@
 </h1>
   
  ![train](https://user-images.githubusercontent.com/106253763/170776728-50b885cb-bcc7-4c7d-b72b-1ed53d1cdfc3.png)
-
-
-  <p align="center">  
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/480px-Microsoft_logo.svg.png" alt="Logo" width="25" height="25">·
-</p>
     ·
 <!-- TABLE OF CONTENTS -->
 <details open="open">
